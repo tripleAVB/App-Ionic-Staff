@@ -16,12 +16,29 @@
 #### - IONIC SEARCHBAR
 #### - IONIC BUTTONS
 
+## ------------------------------------------------------------------
 
 ## PASSO - A - PASSO
 
 ### 1º PASSO - Iniciar o app através do ionic start
 ### 2º PASSO - Escolher o nome do app
 ### 3º PASSO - Escolher o framework (o do nosso curso será sempre o Angular)
-### 4º PASSO - 
+### 4º PASSO - Conferir todas as páginas e componentes que já vem no App "puro"
+### 5º PASSO - Adição de componentes (INPUTS, BOTÕES)
+### 6º PASSO - Adição das rotas (Onboarding -> Login -> Cadastro -> Login ... )
+### 7º PASSO - Estilização completa das telas e dos componentes
+### 8º PASSO - Definição das rotas
+
+#### - Login -> Dashboard
+#### - Login -> Cadastro 
+#### - Dashboard - Login
+#### - Cadastro -> Dashboard
+
+
+
+
+
+
+
 
 
